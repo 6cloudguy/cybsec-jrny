@@ -2,7 +2,7 @@
 # 🛡️ My Ethical Hacking Journey
 
 <!-- Paragraph text: short intro -->
-This repository tracks my weekly progress and learning as I prepare for the eJPT certification and dive into bug bounty and cybersecurity fundamentals.
+This repository tracks my weekly progress and learning as I prepare in cybersecurity and bug bounty.
 
 Started: **July 2025**
 
@@ -14,13 +14,14 @@ Started: **July 2025**
 
 <!-- You’ll keep adding weeks below like this: -->
 
-### Week 1 (Jul 1 – Jul 7)
-- ✅ INE Module 1: Networking Basics
-- ✅ THM: "Introduction to Cyber Security"
-- 🛠️ Wrote a basic port scanner in Python
-- ❌ Skipped 1 day due to college workload
+### Week 1 (Jul 1 – Jul 6)
+- ✅ Started the linked in learning path: *Penetration Testing Intern* from Kerala Development and Innovation Strategic Council
+- ✅ Completed LinkedIn Course: *Leveraging AI for Pentesting* by Tennisha Martin
+- ✅ Added notes on course in github
+- 💡 Learned how LLMs (like ChatGPT) can assist with recon, payloads, and automation
+- 🧠 Discovered tools like HackingBuggyGPT and use cases for AI in scripting
 
-### Week 2 (Jul 8 – Jul 14)
+### Week 2 (Jul 7 – Jul 13)
 - 🔹 INE Module 2: Recon & Enumeration
 - ✅ THM: "Jr Pen Tester Room 1"
 - 💡 Learned about TCP flags and 3-way handshake
@@ -46,7 +47,7 @@ Started: **July 2025**
 I'm a second-year BSc CS student from Kerala,India, preparing for a future in ethical hacking and bug bounty. This repo is my open learning journal to stay consistent, build a portfolio, and reflect on growth.
 
 <!-- Links in markdown format: [text](url) -->
-You can follow my journey or connect via [LinkedIn](https://www.linkedin.com) (placeholder).
+You can follow my journey or connect via [LinkedIn](https://www.linkedin.com/pranavp2006) (placeholder).
 
 ---
 
