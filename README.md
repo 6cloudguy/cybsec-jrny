@@ -1,2 +1,2 @@
 # cybsec-jrny
-Tracking my learning in cybersecurity, eJPT prep, and bug bounty
+Tracking my progress in cybersecurity, eJPT prep, and bug bounty
