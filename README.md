@@ -6,8 +6,6 @@ This repository tracks my weekly progress and learning as I prepare for the eJPT
 
 Started: **July 2025**
 
----
-
 <!-- Horizontal line -->
 ---
 
@@ -35,7 +33,7 @@ Started: **July 2025**
 
 <!-- Bullet list using `-` and code-style with backticks -->
 - `ine/` — Notes and summaries of INE modules
-- `tryhackme/` — Writeups of THM rooms completed
+- `thm/` — Writeups of THM rooms completed
 - `scripts/` — Python/Bash tools I build along the way
 - `notes/` — Extra concepts (e.g., Linux, Burp Suite, Web Exploits)
 
