@@ -14,6 +14,7 @@ Started: **July 2025**
 
 ### Week 2 (Jul 7 – Jul 13)
 - 🔹 Started the LinkedIn Course: **Metasploit Essential Training** by Liam Cleary
+- 🛠️ Built **"autofn"**, an automatic scanner
 - 🔹 INE Module 2: Recon & Enumeration
 - ✅ THM: "Jr Pen Tester Room 1"
 - 💡 Learned about TCP flags and 3-way handshake
