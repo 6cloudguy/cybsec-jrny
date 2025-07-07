@@ -1,48 +1,19 @@
-# 🔍 AutoRecon-Bash
+# 🔧 Cybersecurity Scripts & Tools
 
-Simple bash-based recon tool for subdomain enumeration, port scanning, dir brute-forcing, and CVE lookup.
+This folder contains links to useful tools and scripts I've written as part of my cybersecurity journey. Some tools are hosted in their own repositories.
 
 ---
 
-## 🚀 Features
+## 🚀 Tools
 
+### 🔍 [AutoFN – Automated Recon Tool](https://github.com/6cloudguy/autofn)
+A bash-based recon scanner with:
 - Subdomain enumeration (`assetfinder`)
-- Live check (`curl`)
 - Port scanning (`nmap`)
 - Directory brute-forcing (`ffuf`)
 - CVE lookup (`searchsploit`)
-- Smart 403 filtering + colored output
-- Organized reports in `output/` folder
+- Smart 403 filtering and colored output
 
 ---
 
-## 📦 Setup
-
-```bash
-git clone https://github.com/6cloudguy/autofn.git
-cd autofn
-chmod +x *.sh
-./install_reqs.sh
-```
-
----
-
-## 🔧 Usage
-
-```bash
-./recon.sh example.com
-```
-
-Reports will be saved inside the `output/` folder.
-
----
-
-## 📝 License
-
-[MIT](LICENSE)
-
----
-
-## 👤 Author
-
-Made by [Pranav P](https://github.com/YOUR_USERNAME)
+More tools will be added here as they’re developed.
