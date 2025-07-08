@@ -9,6 +9,26 @@ Started: **July 2025**
 <!-- Horizontal line -->
 ---
 
+## 🧠 About Me
+
+<!-- Paragraph text -->
+I'm a second-year BSc CS student from Kerala,India, preparing for a future in ethical hacking and bug bounty. This repo is my open learning journal to stay consistent, build a portfolio, and reflect on growth.
+
+<!-- Links in markdown format: [text](url) -->
+You can follow my journey or connect via [LinkedIn](https://www.linkedin.com/in/pranavp2006)
+
+---
+
+## 📂 Repo Structure
+
+<!-- Bullet list using `-` and code-style with backticks -->
+<!-- - `eJPT/`        — Notes and summaries of eJPT lessons
+- `notes/`      — Extra concepts (e.g., Linux, Burp Suite, Web Exploits) -->
+- `htb/`        — Writeups of HTB rooms completed
+- `scripts/`    — Python/Bash tools I build along the way
+- `linkedin/`   — Notes and summaries of Linkedin courses
+
+---
 
 ## 📅 Weekly Progress Log
 
@@ -29,26 +49,9 @@ Started: **July 2025**
 
 ---
 
-## 📂 Repo Structure
 
-<!-- Bullet list using `-` and code-style with backticks -->
-<!-- - `eJPT/`        — Notes and summaries of eJPT lessons
-- `notes/`      — Extra concepts (e.g., Linux, Burp Suite, Web Exploits) -->
-- `htb/`        — Writeups of HTB rooms completed
-- `scripts/`    — Python/Bash tools I build along the way
-- `linkedin/`   — Notes and summaries of Linkedin courses
-
----
 
 <!-- Level 2 heading again -->
-## 🧠 About Me
 
-<!-- Paragraph text -->
-I'm a second-year BSc CS student from Kerala,India, preparing for a future in ethical hacking and bug bounty. This repo is my open learning journal to stay consistent, build a portfolio, and reflect on growth.
-
-<!-- Links in markdown format: [text](url) -->
-You can follow my journey or connect via [LinkedIn](https://www.linkedin.com/in/pranavp2006)
-
----
 
 <!-- End -->
