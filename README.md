@@ -16,7 +16,7 @@ Started: **July 2025**
 - 🔹 Started the LinkedIn Course: **Metasploit Essential Training** by Liam Cleary
 - 🛠️ Built **"autofn"**, an automatic scanner
 - 🔹 INE Module 2: Recon & Enumeration
-- ✅ THM: "Jr Pen Tester Room 1"
+- ✅ HTB: Completed "Intro to Academy", "Web Requests"
 - 💡 Learned about TCP flags and 3-way handshake
 
 ### Week 1 (Jul 1 – Jul 6)
@@ -33,9 +33,9 @@ Started: **July 2025**
 
 <!-- Bullet list using `-` and code-style with backticks -->
 <!-- - `eJPT/`        — Notes and summaries of eJPT lessons
-- `thm/`        — Writeups of THM rooms completed
-- `scripts/`    — Python/Bash tools I build along the way
 - `notes/`      — Extra concepts (e.g., Linux, Burp Suite, Web Exploits) -->
+- `htb/`        — Writeups of HTB rooms completed
+- `scripts/`    — Python/Bash tools I build along the way
 - `linkedin/`   — Notes and summaries of Linkedin courses
 
 ---
