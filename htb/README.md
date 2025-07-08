@@ -5,7 +5,7 @@ This folder contains links to the notes of HTB modules I've written as part of m
 ---
 ## 🗒️Notes
 
-- [Web Requests](/htb/webrequests.md)
+- [Web Requests](/htb/web requests.md)
 
 ---
 
