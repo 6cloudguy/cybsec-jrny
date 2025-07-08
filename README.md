@@ -24,9 +24,9 @@ I'm a second-year BSc CS student from Kerala,India, preparing for a future in et
 <!-- Bullet list using `-` and code-style with backticks -->
 <!-- - `eJPT/`        — Notes and summaries of eJPT lessons
 - `notes/`      — Extra concepts (e.g., Linux, Burp Suite, Web Exploits) -->
-- `htb/`        — Writeups of HTB rooms completed
-- `scripts/`    — Python/Bash tools I build along the way
-- `linkedin/`   — Notes and summaries of Linkedin courses
+- [`htb/`](/htb)        — Writeups of HTB rooms completed
+- [`scripts/`](/scripts)    — Python/Bash tools I build along the way
+- [`linkedin/`](/linkedin)   — Notes and summaries of Linkedin courses
 
 ---
 
