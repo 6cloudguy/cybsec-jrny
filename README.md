@@ -22,10 +22,10 @@ I'm a second-year BSc CS student from Kerala,India. Preparing for a future in cy
 ## 📂 Repo Structure
 
 <!-- Bullet list using `-` and code-style with backticks -->
-<!-- - `eJPT/`        — Notes and summaries of eJPT lessons
-- `notes/`      — Extra concepts (e.g., Linux, Burp Suite, Web Exploits) -->
+<!-- - `eJPT/`        — Notes and summaries of eJPT lessons -->
 - [`htb/`](/htb/README.md)        — Writeups of HTB rooms completed
 - [`linkedin/`](/linkedin/README.md)   — Notes and summaries of Linkedin courses
+- [`notes/`](/notes/README.md)    — Extra concepts (e.g., Linux, Burp Suite, Web Exploits)
 - [`scripts/`](/scripts/README.md)    — Python/Bash tools I build along the way
 
 ---
