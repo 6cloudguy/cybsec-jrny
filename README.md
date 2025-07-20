@@ -26,7 +26,7 @@ You can follow my journey or connect via [LinkedIn](https://www.linkedin.com/in/
 ## 📅 Weekly Progress Log
 
 ### Week 3 (Jul 14 – Jul 20)
-- 🏆 Became `Bronze tier` in HTB Season-8
+- 🏆 Became <font color=orange>`Bronze tier`</font> in HTB Season-8
 - 🔥 Promoted to `Script-Kiddie` rank in HTB
 - ✅ HTB: **Owned** 2 systems and 3 challenges
 - 💡 Learned basic methods of penetrating into a system
