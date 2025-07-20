@@ -61,8 +61,8 @@ Each section provides:
 
 Use it in combination with tools like:
 
-- 🔍 [AutoFN](https://github.com/yourusername/autofn) (for recon + fuzzing)
-- 🐍 [`pwncat`](https://github.com/cytopia/pwncat) (auto-upgrading shells)
+- 🔍 [AutoFN](https://github.com/6cloudguy/autofn) (for recon + fuzzing)
+- 🐍 [pwncat](https://github.com/cytopia/pwncat) (auto-upgrading shells)
 - 🛡️ Firewalls bypass tricks (`bash -i >& /dev/tcp/...` with proxychains, tunneling)
 
 ---
