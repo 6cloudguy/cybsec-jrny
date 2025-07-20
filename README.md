@@ -19,14 +19,12 @@ You can follow my journey or connect via [LinkedIn](https://www.linkedin.com/in/
 - [`htb/`](/htb/README.md)        — Writeups of HTB modules completed
 - [`linkedin/`](/linkedin/README.md)   — Notes and summaries of Linkedin courses
 - [`notes/`](/notes/README.md)    — Extra concepts 
-- [`scripts/`](/scripts/README.md)    — Python/Bash tools I build along the way
-
----
+- [`scripts/`](/scripts/README.md)    — Tools I build along the way
 
 ## 📅 Weekly Progress Log
 
 ### Week 3 (Jul 14 – Jul 20)
-- 🏆 Became <font color=orange>`Bronze tier`</font> in HTB Season-8
+- 🏆 Became `Bronze tier` in HTB Season-8
 - 🔥 Promoted to `Script-Kiddie` rank in HTB
 - ✅ HTB: **Owned** 2 systems and 3 challenges
 - 💡 Learned basic methods of penetrating into a system
