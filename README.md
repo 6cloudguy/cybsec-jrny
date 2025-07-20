@@ -1,49 +1,49 @@
-<!-- Heading level 1: Main Title -->
 # ⚔️ My Ethical Hacking Journey ⚔️
 
-<!-- Paragraph text: short intro -->
 This repository tracks my weekly progress and learning as I prepare in cybersecurity and bug bounty.
 
 Started: **July 2025**
 
-<!-- Horizontal line -->
 ---
 
 ## 🧠 About Me
 
-<!-- Paragraph text -->
 I'm a second-year BSc CS student from Kerala,India. Preparing for a future in cybersecurity and bug bounty. This repo is my open learning-journal to stay consistent, build a portfolio, and reflect on growth.
 
-<!-- Links in markdown format: [text](url) -->
  [LinkedIn](https://www.linkedin.com/in/pranavp2006)
 
 ---
 
 ## 📂 Repo Structure
-
-<!-- Bullet list using `-` and code-style with backticks -->
 <!-- - `eJPT/`        — Notes and summaries of eJPT lessons -->
-- [`htb/`](/htb/README.md)        — Writeups of HTB rooms completed
+- [`htb/`](/htb/README.md)        — Writeups of HTB modules completed
 - [`linkedin/`](/linkedin/README.md)   — Notes and summaries of Linkedin courses
-- [`notes/`](/notes/README.md)    — Extra concepts (e.g., Linux, Burp Suite, Web Exploits)
+- [`notes/`](/notes/README.md)    — Extra concepts 
 - [`scripts/`](/scripts/README.md)    — Python/Bash tools I build along the way
 
 ---
 
 ## 📅 Weekly Progress Log
 
+### Week 3 (Jul 14 – Jul 20)
+- 🏆 Became `Bronze tier` in HTB Season-8
+- 🔥 Promoted to `Script-Kiddie` rank in HTB
+- ✅ HTB: **Owned** 2 systems and 3 challenges
+- 💡 Learned basic methods of penetrating into a system
+- 🔹 Started the module **File transfer** in HTB
+- 🛠️ Submitted an ***Easy*** Coding-Challenge on HTB
+- 💻 Started working on a ***Medium*** Coding-Challenge
+- ⛓️ Started making upgrades to **AutoFn**
+
 ### Week 2 (Jul 7 – Jul 13)
 - 🔹 Started the LinkedIn Course: **Metasploit Essential Training** by Liam Cleary
-- 🛠️ Built **"Autofn"**, an automatic scanner
-- ✅ Completed my first machine "Nibbles",sherlock "Brutus"
+- 🛠️ Built **"AutoFn"**, an automatic scanner
+- ✅ Completed my first machine "**Nibbles**",sherlock "**Brutus**"
 - ✅ HTB: Completed the path **"Cracking into HackTheBox"**
 - 💡 Learned basics of pentesting and metasploit
 
 ### Week 1 (Jul 1 – Jul 6)
-- ✅ Started the linked in learning path: **Penetration Testing Intern** from Kerala Development and Innovation Strategic Council
+- ✅ Started the linked in learning path: **Penetration Testing Intern** from KDISC
 - ✅ Completed LinkedIn Course: **Leveraging AI for Pentesting** by Tennisha Martin
 - 💡 Learned how LLMs (like ChatGPT) can assist with recon, payloads, and automation
 - 🧠 Discovered tools like HackingBuggyGPT and use cases for AI in scripting
-
-
----
