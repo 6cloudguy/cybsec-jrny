@@ -10,18 +10,34 @@ Started: **July 2025**
 
 I'm a second-year BSc CS student from Kerala,India. Preparing for a future in cybersecurity and bug bounty. This repo is my open learning-journal to stay consistent, build a portfolio, and reflect on growth.
 
-You can follow my journey or connect via [LinkedIn](https://www.linkedin.com/in/pranavp2006)
-
+You can follow my journey or connect via 
+- [LinkedIn](https://www.linkedin.com/in/pranavp2006)
+- [Portfolio](https://portfolio-pranavp.web.app)
 ---
+
+## Goals (to be) Achieved 
+|           |             |            |             |             |
+|-----      |-----        |-----       |-----        |-----        |
+|  [ ] Own 100 machines | [ ] Own 50 machines |  [ ] Own 25 machines | [ ] Own 10 machines | [ ] Own 5 machines | 
+| [ ] Halo | [ ] Platinum | [ ] Ruby | [ ] Silver| [x] Bronze ✅ Bronze |
+| [ ] 5 Blood | [ ] 4 Blood | [ ] 3 Blood | [ ] 2 Blood | [ ] 1 Blood |
+| [ ] CPTS | [ ] eJPT v2 | [ ] 10 Writeups | [ ] 5 Writeups | [ ] 1 Writeup |
+
 
 ## 📂 Repo Structure
 <!-- - `eJPT/`        — Notes and summaries of eJPT lessons -->
-- [`htb/`](/htb/README.md)        — Writeups of HTB modules completed
-- [`linkedin/`](/linkedin/README.md)   — Notes and summaries of Linkedin courses
+- [`htb/`](/htb/README.md)        — Writeups and notes of HTB
+- [`linkedin/`](/linkedin/README.md)   — Notes of Linkedin courses
 - [`notes/`](/notes/README.md)    — Extra concepts 
 - [`scripts/`](/scripts/README.md)    — Tools I build along the way
 
 ## 📅 Weekly Progress Log
+
+### Week 4 (Jul 21 – Jul 27)[HAPPY B'DAY TO ME]
+- ⛓️ Made a Blueprint for a **Hard** HTB Coding-Challenge
+- 💻 Made a basic **Under Construction** Portfolio (available above).
+- 🔹 Continuing the module **File transfer** in HTB
+- 🛠️ Submitted a ***Medium*** Coding-Challenge on HTB
 
 ### Week 3 (Jul 14 – Jul 20)
 - 🏆 Became `Bronze tier` in HTB Season-8

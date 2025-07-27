@@ -1,14 +1,14 @@
-# 📒HTB Notes
+# 📒HTB Notes & Writeups
 
-This folder contains links to the notes of HTB modules I've written as part of my cybersecurity journey.
+This folder contains links to the notes adn writeups of HTB modules and boxes I've written as part of my cybersecurity journey.
 
 ---
 ## 🗒️Notes
 
-- [Web Requests](/htb/web_requests.md)
-- [Getting Started](/htb/Getting_started.md)
-- [Javascipt Deobfuscation](/htb/JS_deobfuscation.md)
+- [Web Requests](./notes/web_requests.md)
+- [Getting Started](./notes/Getting_started.md)
+- [Javascipt Deobfuscation](./notes/JS_deobfuscation.md)
 
 ---
 
-More notes will be added here as they're written.
+More will be added here as they're written.
