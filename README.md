@@ -18,10 +18,10 @@ You can follow my journey or connect via
 ## Goals (to be) Achieved 
 |           |             |            |             |             |
 |-----      |-----        |-----       |-----        |-----        |
-|  [ ] Own 100 machines | [ ] Own 50 machines |  [ ] Own 25 machines | [ ] Own 10 machines | [ ] Own 5 machines | 
-| [ ] Halo | [ ] Platinum | [ ] Ruby | [ ] Silver| [x] Bronze ✅ Bronze |
-| [ ] 5 Blood | [ ] 4 Blood | [ ] 3 Blood | [ ] 2 Blood | [ ] 1 Blood |
-| [ ] CPTS | [ ] eJPT v2 | [ ] 10 Writeups | [ ] 5 Writeups | [ ] 1 Writeup |
+|  ⬜ Own 100 machines | ⬜ Own 50 machines |  ⬜ Own 25 machines | ⬜ Own 10 machines | ⬜ Own 5 machines | 
+| ⬜ Halo | ⬜ Platinum | ⬜ Ruby | ⬜ Silver| ✅ Bronze |
+| ⬜ 5 Blood | ⬜ 4 Blood | ⬜ 3 Blood | ⬜ 2 Blood | ⬜ 1 Blood |
+| ⬜ CPTS | ⬜ eJPT v2 | ⬜ 10 Writeups | ⬜ 5 Writeups | ⬜ 1 Writeup |
 
 
 ## 📂 Repo Structure
