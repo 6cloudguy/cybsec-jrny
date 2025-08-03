@@ -15,13 +15,16 @@ I'm a second-year BSc CS student from Kerala,India. Preparing for a future in cy
 - [Portfolio](https://portfolio-pranavp.web.app)
 ---
 
-## Goals (to be) Achieved 
+## 📝Writeups
+Access my comprehensive pentest write-ups [here](https://github.com/6cloudguy/box-writeups)
+
+## 🎯Goals (to be) Achieved 
 |           |             |            |             |             |
 |-----      |-----        |-----       |-----        |-----        |
 |  ⬜ Own 100 machines | ⬜ Own 50 machines |  ⬜ Own 25 machines | ⬜ Own 10 machines | ⬜ Own 5 machines | 
 | ⬜ Halo | ⬜ Platinum | ⬜ Ruby | ⬜ Silver| ✅ Bronze |
 | ⬜ 5 Blood | ⬜ 4 Blood | ⬜ 3 Blood | ⬜ 2 Blood | ⬜ 1 Blood |
-| ⬜ CPTS | ⬜ eJPT v2 | ⬜ 10 Writeups | ⬜ 5 Writeups | ⬜ 1 Writeup |
+| ⬜ CPTS | ⬜ eJPT v2 | ⬜ 10 Writeups | ⬜ 5 Writeups | ✅ 1 Writeup |
 
 
 ## 📂 Repo Structure
@@ -33,7 +36,16 @@ I'm a second-year BSc CS student from Kerala,India. Preparing for a future in cy
 
 ## 📅 Weekly Progress Log
 
-### Week 4 (Jul 21 – Jul 27)[HAPPY B'DAY TO ME]
+### Week 5(Jul 28 - Aug 3)
+- ✅ Completedd the module **File Transfer**
+- 💡 Learned basic methods of File transfer while pentesting
+- 💡 Learned basic SMB methods
+- 🔥 Completed my first solo vuln-box **Me and My Girlfriend 1**
+- 🔹 Wrote my first writeup
+- 📈 Started another repo for publishing box writeups.
+- 💬 Posted about the writeup on **linkedin**
+
+### Week 4 (Jul 21 – Jul 27)
 - ⛓️ Made a Blueprint for a **Hard** HTB Coding-Challenge
 - 💻 Made a basic **Under Construction** Portfolio (available above).
 - 🔹 Continuing the module **File transfer** in HTB
