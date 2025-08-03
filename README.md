@@ -37,7 +37,7 @@ Access my comprehensive pentest write-ups [here](https://github.com/6cloudguy/bo
 ## 📅 Weekly Progress Log
 
 ### Week 5(Jul 28 - Aug 3)
-- ✅ Completedd the module **File Transfer**
+- ✅ Completed the module **File Transfer**
 - 💡 Learned basic methods of File transfer while pentesting
 - 💡 Learned basic SMB methods
 - 🔥 Completed my first solo vuln-box **Me and My Girlfriend 1**
