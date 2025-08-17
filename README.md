@@ -18,8 +18,8 @@ You can follow my journey or connect via
 ## 📝Writeups
 Access my comprehensive pentest write-ups [here](https://github.com/6cloudguy/box-writeups)
 
-## 🎯Goals (to be) Achieved 
-|           |             |            |             |             |
+## 🎯Goals 
+| ⬜ 50 CTFs| ⬜ 20 CTFs| ⬜ 10 CTFs| ✅ 5 CTFs| ✅ 1 CTF|
 |-----      |-----        |-----       |-----        |-----        |
 | ⬜ Own 100 machines | ⬜ Own 50 machines |  ⬜ Own 25 machines | ⬜ Own 10 machines | ⬜ Own 5 machines | 
 | ⬜ Holo | ⬜ Platinum | ⬜ Ruby | ✅ Silver| ✅ Bronze |
@@ -27,7 +27,6 @@ Access my comprehensive pentest write-ups [here](https://github.com/6cloudguy/bo
 | ⬜ 20 Challenges | ⬜ 10 Challenges | ⬜ 5 Real vuln | ⬜ 1 Real vuln | ✅ Script Kiddie |
 | ⬜ 5 Blood | ⬜ 4 Blood | ⬜ 3 Blood | ⬜ 2 Blood | ⬜ 1 Blood |
 | ⬜ CPTS | ⬜ eJPT v2 | ⬜ 10 Writeups | ⬜ 5 Writeups | ✅ 1 Writeup |
-| ⬜ 50 CTFs| ⬜ 20 CTFs| ⬜ 10 CTFs| ✅ 5 CTFs| ✅ 1 CTF|
 
 
 ## 📂 Repo Structure
@@ -38,7 +37,7 @@ Access my comprehensive pentest write-ups [here](https://github.com/6cloudguy/bo
 
 ## 📅 Weekly Progress Log
 
-### Week 6(Aug 11 - Aug 17)
+### Week 7(Aug 11 - Aug 17)
 - 🔥 Completed 3 challenges on HTB
 - 🤖 HTB: Owned the box **Code**
 - ✅ Started completing all the free starting point boxes
