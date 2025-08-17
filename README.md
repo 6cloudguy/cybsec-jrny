@@ -22,11 +22,12 @@ Access my comprehensive pentest write-ups [here](https://github.com/6cloudguy/bo
 |           |             |            |             |             |
 |-----      |-----        |-----       |-----        |-----        |
 | ⬜ Own 100 machines | ⬜ Own 50 machines |  ⬜ Own 25 machines | ⬜ Own 10 machines | ⬜ Own 5 machines | 
-| ⬜ Halo | ⬜ Platinum | ⬜ Ruby | ✅ Silver| ✅ Bronze |
+| ⬜ Holo | ⬜ Platinum | ⬜ Ruby | ✅ Silver| ✅ Bronze |
 | ⬜ Omnicient | ⬜ Guru | ⬜ Elite hacker | ⬜ Pro Hacker| ⬜ Hacker |
 | ⬜ 20 Challenges | ⬜ 10 Challenges | ⬜ 5 Real vuln | ⬜ 1 Real vuln | ✅ Script Kiddie |
 | ⬜ 5 Blood | ⬜ 4 Blood | ⬜ 3 Blood | ⬜ 2 Blood | ⬜ 1 Blood |
 | ⬜ CPTS | ⬜ eJPT v2 | ⬜ 10 Writeups | ⬜ 5 Writeups | ✅ 1 Writeup |
+| ⬜ 50 CTFs| ⬜ 20 CTFs| ⬜ 10 CTFs| ✅ 5 CTFs| ✅ 1 CTF|
 
 
 ## 📂 Repo Structure
@@ -36,6 +37,18 @@ Access my comprehensive pentest write-ups [here](https://github.com/6cloudguy/bo
 - [`scripts/`](/scripts/README.md)    — Tools I build along the way
 
 ## 📅 Weekly Progress Log
+
+### Week 6(Aug 11 - Aug 17)
+- 🔥 Completed 3 challenges on HTB
+- 🤖 HTB: Owned the box **Code**
+- ✅ Started completing all the free starting point boxes
+- 💻 HTB: Completed all free boxes in starting point *tier 0* and *tier 1*
+- 🏆 Rooted the VM **Jangow01** from vulnhub
+- 📈 Published 2nd writeup (Jangow01)
+- 🔹 Setup account for **Picoctf**
+- 👾 Did my first CTF challenge: **DISKO1**
+- 🧠 Learned about jinja2 RCE in template injections
+- 💬 Solved **5** easy CTF Challenges in **PicoCtf**
 
 ### Week 6(Aug 4 - Aug 10)
 - 🏆 Became `Silver tier` in HTB Season-8
@@ -75,7 +88,8 @@ Access my comprehensive pentest write-ups [here](https://github.com/6cloudguy/bo
 ### Week 2 (Jul 7 – Jul 13)
 - 🔹 Started the LinkedIn Course: **Metasploit Essential Training** by Liam Cleary
 - 🛠️ Built **"AutoFn"**, an automatic scanner
-- ✅ Completed my first machine "**Nibbles**",sherlock "**Brutus**"
+- ✅ Completed my first machine "**Nibbles**"
+- 📈 Completed my first sherlock "**Brutus**"
 - ✅ HTB: Completed the path **"Cracking into HackTheBox"**
 - 💡 Learned basics of pentesting and metasploit
 

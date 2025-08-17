@@ -5,7 +5,8 @@ This folder contains links to the notes of general topics that might probably be
 ---
 ## 🗒️Notes
 
-- [Shell cheat sheet](/notes/Shell_CheatSheet_Swissky.md)
+- [Shell cheat sheet](Shell_CheatSheet_Swissky.md)
+- Another quick find of [jinja2 RCE poc](Jinjas2POC.md)
 
 ---
 
