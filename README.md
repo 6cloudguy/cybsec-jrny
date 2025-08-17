@@ -21,7 +21,7 @@ Access my comprehensive pentest write-ups [here](https://github.com/6cloudguy/bo
 ## 🎯Goals 
 |           |             |            |             |             |
 |-----      |-----        |-----       |-----        |-----        |
-| ⬜ Own 100 machines | ⬜ Own 50 machines |  ⬜ Own 25 machines | ⬜ Own 10 machines | ⬜ Own 5 machines | 
+| ⬜ Own 100 machines | ⬜ Own 50 machines |  ⬜ Own 25 machines | ⬜ Own 10 machines | ✅ Own 5 machines | 
 | ⬜ Holo | ⬜ Platinum | ⬜ Ruby | ✅ Silver| ✅ Bronze |
 | ⬜ Omnicient | ⬜ Guru | ⬜ Elite hacker | ⬜ Pro Hacker| ⬜ Hacker |
 | ⬜ 20 Challenges | ⬜ 10 Challenges | ⬜ 5 Real vuln | ⬜ 1 Real vuln | ✅ Script Kiddie |
