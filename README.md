@@ -38,11 +38,20 @@ Access my comprehensive pentest write-ups [here](https://github.com/6cloudguy/bo
 
 ## 📅 Weekly Progress Log
 
+### Week 8(Aug 18 - Aug 24)
+- 👾 HTB: Rooted the box **Codetwo**
+- ✅ HTB: Rooted the box **Artificial**
+- 💻 Made a writeup for the HTB box **Artificial** (Will publish when the box retire)
+- 😎 Owned **CubeMadness1** challlenge in HTB
+- 🔥 Owned **The Suspicious Domain** Challenge in HTB
+- 🛠️ Made a writeup for the HTB box **Editor** (Will publish when the box retire)
+- 🤒 **Couldnt do much because of health issues.**
+
 ### Week 7(Aug 11 - Aug 17)
-- 🔥 Completed 3 challenges on HTB
+- ✅ Completed 3 challenges on HTB
 - 🤖 HTB: Owned the box **Code**
-- ✅ Started completing all the free starting point boxes
-- 💻 HTB: Completed all free boxes in starting point *tier 0* and *tier 1*
+- 💻 Started completing all the free starting point boxes
+- 🔥 HTB: Completed all free boxes in starting point *tier 0* and *tier 1*
 - 🏆 Rooted the VM **Jangow01** from vulnhub
 - 📈 Published 2nd writeup (Jangow01)
 - 🔹 Setup account for **Picoctf**
