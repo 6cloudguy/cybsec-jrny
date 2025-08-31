@@ -38,6 +38,11 @@ Access my comprehensive pentest write-ups [here](https://github.com/6cloudguy/bo
 
 ## 📅 Weekly Progress Log
 
+### Week 9(Aug 25 - Aug 31)
+- 👾 Rooted the box **2million** from HTB
+- ⛓️‍💥 Completed the challenge **WebVault Time Machine Investigation**
+- 🤒 **Couldnt do much because of health issues.**
+
 ### Week 8(Aug 18 - Aug 24)
 - 👾 HTB: Rooted the box **Codetwo**
 - ✅ HTB: Rooted the box **Artificial**
