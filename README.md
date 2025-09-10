@@ -26,8 +26,8 @@ Access my comprehensive pentest write-ups [here](https://github.com/6cloudguy/bo
 | ⭕ Omnicient | ⭕ Guru | ⭕ Elite hacker | ⭕ Pro Hacker| ⭕ Hacker |
 | ⭕ 20 Challenges | ⭕ 10 Challenges | ⭕ 5 Real vuln | ⭕ 1 Real vuln | ✅ Script Kiddie |
 | ⭕ 5 Blood | ⭕ 4 Blood | ⭕ 3 Blood | ⭕ 2 Blood | ⭕ 1 Blood |
-| ⭕ CPTS | ⭕ eJPT v2 | ⭕ 10 Writeups | ⭕ 5 Writeups | ✅ 1 Writeup |
-| ⭕ 50 CTFs| ⭕ 20 CTFs| ⭕ 10 CTFs| ✅ 5 CTFs| ✅ 1 CTF|
+| ⭕ CPTS | ⭕ eJPT v2 | ⭕ 10 Writeups | ✅ 5 Writeups | ✅ 1 Writeup |
+| ⭕ 50 CTFs| ⭕ 20 CTFs| ✅ 10 CTFs| ✅ 5 CTFs| ✅ 1 CTF|
 
 
 ## 📂 Repo Structure
@@ -37,6 +37,13 @@ Access my comprehensive pentest write-ups [here](https://github.com/6cloudguy/bo
 - [`scripts/`](/scripts/README.md)    — Tools I build along the way
 
 ## 📅 Weekly Progress Log
+
+### Week 10(Sep 1 - Sep 7)
+- 🧗🏻‍♂️ Rooted my first **Medium** box: **Strutted**
+- 📝 Made writeup for the box **Strutted**
+- 💬 Published and posted about the writeup on **Linkedin**
+- 🔥 Solved **10** CTF challenges in **PicoCTF**
+- 💻 Learned about *xfreerdp* from HTB academy
 
 ### Week 9(Aug 25 - Aug 31)
 - 👾 Rooted the box **2million** from HTB
