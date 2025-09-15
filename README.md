@@ -21,11 +21,10 @@ Access my comprehensive pentest write-ups [here](https://github.com/6cloudguy/bo
 ## 🎯Goals 
 |           |             |            |             |             |
 |-----      |-----        |-----       |-----        |-----        |
-| ⭕ Own 100 machines | ⭕ Own 50 machines |  ⭕ Own 25 machines | ⭕ Own 10 machines | ✅ Own 5 machines | 
+| ⭕ Own 100 machines | ⭕ Own 50 machines |  ⭕ Own 25 machines | ✅ Own 10 machines | ✅ Own 5 machines | 
 | ⭕ Holo | ⭕ Platinum | ⭕ Ruby | ✅ Silver| ✅ Bronze |
 | ⭕ Omnicient | ⭕ Guru | ⭕ Elite hacker | ⭕ Pro Hacker| ⭕ Hacker |
-| ⭕ 20 Challenges | ⭕ 10 Challenges | ⭕ 5 Real vuln | ⭕ 1 Real vuln | ✅ Script Kiddie |
-| ⭕ 5 Blood | ⭕ 4 Blood | ⭕ 3 Blood | ⭕ 2 Blood | ⭕ 1 Blood |
+| ⭕ 20 Challenges | ⭕ 10 Challenges | ⭕ 5 Real vuln | ✅ 1 Real vuln | ✅ Script Kiddie |
 | ⭕ CPTS | ⭕ eJPT v2 | ⭕ 10 Writeups | ✅ 5 Writeups | ✅ 1 Writeup |
 | ⭕ 50 CTFs| ⭕ 20 CTFs| ✅ 10 CTFs| ✅ 5 CTFs| ✅ 1 CTF|
 
@@ -37,6 +36,13 @@ Access my comprehensive pentest write-ups [here](https://github.com/6cloudguy/bo
 - [`scripts/`](/scripts/README.md)    — Tools I build along the way
 
 ## 📅 Weekly Progress Log
+
+### Week 11(Sep 8 - Sep 14)
+- 👾 Found a Vulnerablity in a State Govt site
+- ✉️ Reported the vulnerability to the division concerned
+- 🔥 Got an appreciation reply mail from them
+- 😎 Reported the vulnerability found in [week 6](#week-6aug-4---aug-10) ( Was scared to sent it then since it was a gov site.)
+- 🧗🏻‍♂️ Rooted my second medium box from HTB: **Environment**
 
 ### Week 10(Sep 1 - Sep 7)
 - 🧗🏻‍♂️ Rooted my first **Medium** box: **Strutted**
