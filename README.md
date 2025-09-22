@@ -23,7 +23,7 @@ Access my comprehensive pentest write-ups [here](https://github.com/6cloudguy/bo
 |-----      |-----        |-----       |-----        |-----        |
 | ⭕ Own 100 machines | ⭕ Own 50 machines |  ⭕ Own 25 machines | ✅ Own 10 machines | ✅ Own 5 machines | 
 | ⭕ Holo | ⭕ Platinum | ⭕ Ruby | ✅ Silver| ✅ Bronze |
-| ⭕ Omnicient | ⭕ Guru | ⭕ Elite hacker | ⭕ Pro Hacker| ⭕ Hacker |
+| ⭕ Omnicient | ⭕ Guru | ⭕ Elite hacker | ⭕ Pro Hacker| ✅ Hacker |
 | ⭕ 20 Challenges | ⭕ 10 Challenges | ⭕ 5 Real vuln | ✅ 1 Real vuln | ✅ Script Kiddie |
 | ⭕ CPTS | ⭕ eJPT v2 | ⭕ 10 Writeups | ✅ 5 Writeups | ✅ 1 Writeup |
 | ⭕ 50 CTFs| ⭕ 20 CTFs| ✅ 10 CTFs| ✅ 5 CTFs| ✅ 1 CTF|
@@ -46,6 +46,7 @@ Access my comprehensive pentest write-ups [here](https://github.com/6cloudguy/bo
 - 🔥 Rooted the new season 9 box **Expressway** immediately on release
 - 🧗🏻‍♂️ Became **Bronze** in the new season 9
 - 👾 Became **Hacker** rank in HTB
+- 🎯 Planning to do *AWS* fortress in HTB
 
 ### Week 11(Sep 8 - Sep 14)
 - 👾 Found a Vulnerablity in a State Govt site
