@@ -37,6 +37,16 @@ Access my comprehensive pentest write-ups [here](https://github.com/6cloudguy/bo
 
 ## 📅 Weekly Progress Log
 
+### Week 12(Sep 15 - Sep 21)
+- ✅ Owned the new box: **Soulmate** in HTB
+- 📲 Tried to root my old phone
+- 😎 Made the portflio page..(v1.81)
+- 🥲 Both challenge submission got rejected.(But they said that "Mutagen" was a cool idea and to resubmit after some slight modifications)
+- 🐣 Set up account on **Medium** to publish writeups.
+- 🔥 Rooted the new season 9 box **Expressway** immediately on release
+- 🧗🏻‍♂️ Became **Bronze** in the new season 9
+- 👾 Became **Hacker** rank in HTB
+
 ### Week 11(Sep 8 - Sep 14)
 - 👾 Found a Vulnerablity in a State Govt site
 - ✉️ Reported the vulnerability to the division concerned
