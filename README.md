@@ -27,6 +27,8 @@ Access my comprehensive pentest write-ups [here](https://github.com/6cloudguy/bo
 | ⭕ 20 Challenges | ⭕ 10 Challenges | ⭕ 5 Real vuln | ✅ 1 Real vuln | ✅ Script Kiddie |
 | ⭕ CPTS | ⭕ eJPT v2 | ⭕ 10 Writeups | ✅ 5 Writeups | ✅ 1 Writeup |
 | ⭕ 50 CTFs| ⭕ 20 CTFs| ✅ 10 CTFs| ✅ 5 CTFs| ✅ 1 CTF|
+| ⭕ Complete AWS| ⭕ 8 AWS flags| ⭕ 4 AWS flags| ⭕ 4 AWS flags| ⭕ 1 AWS flag|
+
 
 
 ## 📂 Repo Structure
@@ -37,8 +39,12 @@ Access my comprehensive pentest write-ups [here](https://github.com/6cloudguy/bo
 
 ## 📅 Weekly Progress Log
 
+<!-- ### Week 14(Sep 29 - Oct 5)
+- 🧗🏻‍♂️ Rooted the medium HTB box **Imagery**
+-  -->
+
 ### Week 13(Sep 22 - Sep 28)
-- 📉 Successfully installe a custom rom (**DotOs**) my old phone
+- 📉 Successfully installed a custom rom (**DotOs**) my old phone
 - 🏫 Couldnt do much because of assignments and internal exams
 
 ### Week 12(Sep 15 - Sep 21)
