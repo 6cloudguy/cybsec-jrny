@@ -8,6 +8,7 @@ This folder contains links to the notes adn writeups of HTB modules and boxes I'
 - [Web Requests](./notes/web_requests.md)
 - [Getting Started](./notes/Getting_started.md)
 - [Javascipt Deobfuscation](./notes/JS_deobfuscation.md)
+- [File Transfer](./notes/file_transfer.md)
 
 ---
 
