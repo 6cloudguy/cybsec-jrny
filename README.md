@@ -37,6 +37,10 @@ Access my comprehensive pentest write-ups [here](https://github.com/6cloudguy/bo
 
 ## 📅 Weekly Progress Log
 
+### Week 13(Sep 22 - Sep 28)
+- 📉 Successfully installe a custom rom (**DotOs**) my old phone
+- 🏫 Couldnt do much because of assignments and internal exams
+
 ### Week 12(Sep 15 - Sep 21)
 - ✅ Owned the new box: **Soulmate** in HTB
 - 📲 Tried to root my old phone
