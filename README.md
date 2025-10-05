@@ -28,7 +28,7 @@ Access my comprehensive pentest write-ups [here](https://github.com/6cloudguy/bo
 | ⭕ CPTS | ⭕ eJPT v2 | ⭕ 10 Writeups | ✅ 5 Writeups | ✅ 1 Writeup |
 | ⭕ 50 CTFs| ⭕ 20 CTFs| ✅ 10 CTFs| ✅ 5 CTFs| ✅ 1 CTF|
 | ⭕ Complete AWS| ⭕ 8 AWS flags| ⭕ 4 AWS flags| ⭕ 4 AWS flags| ⭕ 1 AWS flag|
-
+<!-- | ⭕ Complete AWS| ⭕ 8 AWS flags| ⭕ 4 AWS flags| ⭕ 4 AWS flags| ⭕ 1 AWS flag| -->
 
 
 ## 📂 Repo Structure
@@ -39,9 +39,16 @@ Access my comprehensive pentest write-ups [here](https://github.com/6cloudguy/bo
 
 ## 📅 Weekly Progress Log
 
-<!-- ### Week 14(Sep 29 - Oct 5)
+### Week 14(Sep 29 - Oct 5)
 - 🧗🏻‍♂️ Rooted the medium HTB box **Imagery**
--  -->
+- 🐣 Did an OSINT challenge in HTB
+- 🔥 Became **Silver** Rank in the new season
+- 🥲 Made proper changes to **Mutagen** (hopefully)
+- 📝 Made writeup for the HTB box **Soulmate**
+- 🤞🏻 Submitted the challenge **Mutagen** once again
+- 🤖 Started to do planning for **Mutagen 2: Chaogen**
+- 👾 Completed coding challenge **Chaogen**
+- 🌐 Released the **v2.16** of my portfolio
 
 ### Week 13(Sep 22 - Sep 28)
 - 📉 Successfully installed a custom rom (**DotOs**) my old phone
