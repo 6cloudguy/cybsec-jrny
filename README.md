@@ -51,7 +51,7 @@ Access my comprehensive pentest write-ups [here](https://github.com/6cloudguy/bo
 - 🌐 Released the **v2.16** of my portfolio
 
 ### Week 13(Sep 22 - Sep 28)
-- 📉 Successfully installed a custom rom (**DotOs**) my old phone
+- 🤞🏻 Successfully installed a custom rom (**DotOs**) my old phone
 - 🏫 Couldnt do much because of assignments and internal exams
 
 ### Week 12(Sep 15 - Sep 21)
@@ -129,6 +129,7 @@ Access my comprehensive pentest write-ups [here](https://github.com/6cloudguy/bo
 - 💻 Made a basic **Under Construction** Portfolio (available above).
 - 🔹 Continuing the module **File transfer** in HTB
 - 🛠️ Submitted a ***Medium*** Coding-Challenge on HTB
+- 🤷🏻‍♂️ The Linkedin path got cancelled and when I asked around, heard that it was some issues btwn linkedin and KDISC
 
 ### Week 3 (Jul 14 – Jul 20)
 - 🏆 Became `Bronze tier` in HTB Season-8
@@ -149,7 +150,7 @@ Access my comprehensive pentest write-ups [here](https://github.com/6cloudguy/bo
 - 💡 Learned basics of pentesting and metasploit
 
 ### Week 1 (Jul 1 – Jul 6)
-- ✅ Started the linked in learning path: **Penetration Testing Intern** from KDISC
+- ✅ Started the linkedin learning path: **Penetration Testing Intern** from KDISC
 - ✅ Completed LinkedIn Course: **Leveraging AI for Pentesting** by Tennisha Martin
 - 💡 Learned how LLMs (like ChatGPT) can assist with recon, payloads, and automation
 - 🧠 Discovered tools like HackingBuggyGPT and use cases for AI in scripting
