@@ -39,6 +39,10 @@ Access my comprehensive pentest write-ups [here](https://github.com/6cloudguy/bo
 
 ## 📅 Weekly Progress Log
 
+### Week 15(Oct 6 - Oct 12)
+- 🎯 Did a few simple problems in **Leetcode**
+- 📝 Decided to focus on academics as sem exam is near.
+
 ### Week 14(Sep 29 - Oct 5)
 - 🧗🏻‍♂️ Rooted the medium HTB box **Imagery**
 - 🐣 Did an OSINT challenge in HTB
