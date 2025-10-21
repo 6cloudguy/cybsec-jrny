@@ -39,6 +39,9 @@ Access my comprehensive pentest write-ups [here](https://github.com/6cloudguy/bo
 
 ## 📅 Weekly Progress Log
 
+### Week 16(Oct 13 - Oct 19)
+- 🐣 Locked in on academics till sem exams are over.
+
 ### Week 15(Oct 6 - Oct 12)
 - 🎯 Did a few simple problems in **Leetcode**
 - 📝 Decided to focus on academics as sem exam is near.
