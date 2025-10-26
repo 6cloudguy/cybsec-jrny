@@ -39,6 +39,9 @@ Access my comprehensive pentest write-ups [here](https://github.com/6cloudguy/bo
 
 ## 📅 Weekly Progress Log
 
+### Week 17(Oct 20 - Oct 26)
+- 🐣 Locked in on academics till sem exams are over.
+
 ### Week 16(Oct 13 - Oct 19)
 - 🐣 Locked in on academics till sem exams are over.
 
