@@ -41,6 +41,9 @@ Access my comprehensive pentest write-ups [here](https://github.com/6cloudguy/bo
 
 ### Week 18(Oct 27 - Nov 2)
 - 🐣 Locked in for sem exams(nov 4 - nov 17).
+- 💸 Talked with HTB staff about the reward for *mutagen*
+- 🤖 Published my writeup for the box **Artificial**
+- 🌐 Submitted the writeup in HTB
 
 ### Week 17(Oct 20 - Oct 26)
 - 🐣 Locked in for model exams(uty sem exams).
