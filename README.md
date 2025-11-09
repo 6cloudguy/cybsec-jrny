@@ -12,9 +12,10 @@ I'm a second-year BSc CS student from Kerala,India. Preparing for a future in cy
 
 You can follow my journey or connect via 
 - [LinkedIn](https://www.linkedin.com/in/pranavp2006)
-- [Portfolio](https://portfolio-pranavp.web.app)
----
+- [Portfolio](https://pranavp-2006.web.app)
 
+### My Github streak
+![GitHub Streak](https://streak-stats.demolab.com?user=6cloudguy&theme=dark&mode=weekly)
 ## 📝Writeups
 Access my comprehensive pentest write-ups [here](https://github.com/6cloudguy/box-writeups)
 
@@ -27,8 +28,8 @@ Access my comprehensive pentest write-ups [here](https://github.com/6cloudguy/bo
 | ⭕ 20 Challenges | ⭕ 10 Challenges | ⭕ 5 Real vuln | ✅ 1 Real vuln | ✅ Script Kiddie |
 | ⭕ CPTS | ⭕ eJPT v2 | ⭕ 10 Writeups | ✅ 5 Writeups | ✅ 1 Writeup |
 | ⭕ 50 CTFs| ⭕ 20 CTFs| ✅ 10 CTFs| ✅ 5 CTFs| ✅ 1 CTF|
-| ⭕ Complete AWS| ⭕ 8 AWS flags| ⭕ 4 AWS flags| ⭕ 4 AWS flags| ⭕ 1 AWS flag|
-<!-- | ⭕ Complete AWS| ⭕ 8 AWS flags| ⭕ 4 AWS flags| ⭕ 4 AWS flags| ⭕ 1 AWS flag| -->
+| ⭕ Complete Jet| ⭕ 8 Jet flags| ⭕ 4 Jet flags| ⭕ 2 Jet flags| ⭕ 1 Jet flag|
+<!-- | ⭕ Complete AWS| ⭕ 8 AWS flags| ⭕ 4 AWS flags| ⭕ 2 AWS flags| ⭕ 1 AWS flag| -->
 
 
 ## 📂 Repo Structure
@@ -39,9 +40,14 @@ Access my comprehensive pentest write-ups [here](https://github.com/6cloudguy/bo
 
 ## 📅 Weekly Progress Log
 
+### Week 19(Nov 3 - Nov 9)
+- 🐣 Sem exams
+- 🌐 Registered in pwn.college
+- 🤞🏻 Made this repo public(Started to come out of the shell of fear)
+- 🧗🏻‍♂️ Writeup of **Artificial** got accepted by HTB(yaay🕺🏻)
+
 ### Week 18(Oct 27 - Nov 2)
 - 🐣 Locked in for sem exams(nov 4 - nov 17).
-- 💸 Talked with HTB staff about the reward for *mutagen*
 - 🤖 Published my writeup for the box **Artificial**
 - 🌐 Submitted the writeup in HTB
 
