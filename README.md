@@ -40,11 +40,17 @@ Access my comprehensive pentest write-ups [here](https://github.com/6cloudguy/bo
 
 ## 📅 Weekly Progress Log
 
+### Week 19(Nov 10 - Nov 16)
+- 🐣 Sem exams
+- 💽 Broke my old PC's bootloader
+- 😅 Fixed the PC
+- 🌐 Trying to make a home lab
+
 ### Week 19(Nov 3 - Nov 9)
 - 🐣 Sem exams
 - 🌐 Registered in pwn.college
 - 🤞🏻 Made this repo public(Started to come out of the shell of fear)
-- 🧗🏻‍♂️ Writeup of **Artificial** got accepted by HTB(yaay🕺🏻)
+- 🧗🏻‍♂️ [Writeup of **Artificial**](https://github.com/6cloudguy/box-writeups/blob/main/htb/artificial/README.md) got accepted by HTB(yaay🕺🏻)
 
 ### Week 18(Oct 27 - Nov 2)
 - 🐣 Locked in for sem exams(nov 4 - nov 17).
