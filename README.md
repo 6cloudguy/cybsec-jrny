@@ -40,6 +40,12 @@ Access my comprehensive pentest write-ups [here](https://github.com/6cloudguy/bo
 
 ## 📅 Weekly Progress Log
 
+### Week 20(Nov 17 - Nov 23)
+- 🐣 Sem exams are over yayy.. So back to track
+- 💆🏻‍♂️ Decided to get some free time as relaxation period.
+- 🤖 Started working on bulding a new HTB machine: ***Ripple***.
+- 🧱 Hit a wall on building thee homelab due to unavailability of a lan to usb cable.
+
 ### Week 19(Nov 10 - Nov 16)
 - 🐣 Sem exams
 - 💽 Broke my old PC's bootloader
