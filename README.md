@@ -14,8 +14,6 @@ I'm a second-year BSc CS student from Kerala,India. Preparing for a future in cy
 
 
 
-### My Github streak
-![GitHub Streak](https://streak-stats.demolab.com?user=6cloudguy&theme=dark&mode=weekly)
 ## 📝Writeups
 Access my comprehensive pentest write-ups [here](https://github.com/6cloudguy/box-writeups)
 
@@ -39,6 +37,11 @@ Access my comprehensive pentest write-ups [here](https://github.com/6cloudguy/bo
 - [`scripts/`](/scripts/README.md)    — Tools I build along the way
 
 ## 📅 Weekly Progress Log
+<!-- 
+### Week 21(Nov 24 - Nov 30)
+- 🌐 Posted about my experience with grub on linkedin
+- 🤖 Working on **Ripple** -->
+
 
 ### Week 20(Nov 17 - Nov 23)
 - 🐣 Sem exams are over yayy.. So back to track
@@ -81,7 +84,7 @@ Access my comprehensive pentest write-ups [here](https://github.com/6cloudguy/bo
 - 📝 Made writeup for the HTB box **Soulmate**
 - 🤞🏻 Submitted the challenge **Mutagen** once again
 - 🤖 Started to do planning for **Mutagen 2: Chaogen**
-- 👾 Completed coding challenge **Chaogen**
+- 👾 Completed the coding challenge **Chaogen**
 - 🌐 Released the **v2.16** of my portfolio
 
 ### Week 13(Sep 22 - Sep 28)
