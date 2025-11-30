@@ -37,17 +37,27 @@ Access my comprehensive pentest write-ups [here](https://github.com/6cloudguy/bo
 - [`scripts/`](/scripts/README.md)    — Tools I build along the way
 
 ## 📅 Weekly Progress Log
-<!-- 
+
 ### Week 21(Nov 24 - Nov 30)
 - 🌐 Posted about my experience with grub on linkedin
-- 🤖 Working on **Ripple** -->
-
+- 🤖 Working on **Ripple**
+- 🚄 Started the **Google Cybersecurity** Proffessional certificate course in Coursera
+- ✅ Finished **Foundations of Cybersecurity** in the course
+- ✅ Finished **Tools of Trade: Linux and SQL** in the course
+- ✅ Finished **Automate Cybersecrity tasks with python** in the course
+- ✅ Finished **Assets, Threats and Vulnerabilities** in the course
+- ✅ Finished **Accelerate Job search with AI** in the course
+- ✅ Finished **Introduction into Computers and OS** in the **Microsoft Cybersecurity Analyst** course 
+- 💆🏻‍♂️ Finally made the headless home server with my old laptop with no display and input
+- 🧠 Still deciding on what make with the home server
+- 🦀 Posted about this repo in Linkedin
+- 💸 Bought the ine's ejpt course and started it
 
 ### Week 20(Nov 17 - Nov 23)
 - 🐣 Sem exams are over yayy.. So back to track
 - 💆🏻‍♂️ Decided to get some free time as relaxation period.
-- 🤖 Started working on bulding a new HTB machine: ***Ripple***.
-- 🧱 Hit a wall on building thee homelab due to unavailability of a lan to usb cable.
+- 🤖 Started bulding a new HTB machine: ***Ripple***.
+- 🧱 Hit a wall on building the homelab due to unavailability of a lan to usb cable.
 
 ### Week 19(Nov 10 - Nov 16)
 - 🐣 Sem exams
