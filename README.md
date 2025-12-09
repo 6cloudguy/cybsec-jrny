@@ -38,7 +38,7 @@ Access my pentest write-ups [here](https://github.com/6cloudguy/box-writeups)
 
 ## 📅 Weekly Progress Log
 
-### Week 21(Nov 24 - Nov 30)
+### Week 22(Dec 1 - Dec 7)
 - 🔍 Started the ICCA course in **INE**
 - 🌐 Posted about my responsive disclosure in **LinkedIn**
 - ✅ Finished **Sound the alarm: Detection and Response** in the coursera path
@@ -47,6 +47,7 @@ Access my pentest write-ups [here](https://github.com/6cloudguy/box-writeups)
 - ✅ Finished **Put it to work: Prepare for Cybersecurity Jobs** in the coursera path
 - 💆🏻‍♂️ Completed the **Coursera Professional Certification** path
 - 📜 Got the **Google Cybersecurity Professional Certificate**
+- 👾 Rooted the **HTB Box** MonitorsFour
 - 🌐 Posted about the certificate on **LinkedIn**
 
 ### Week 21(Nov 24 - Nov 30)
