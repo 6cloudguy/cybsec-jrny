@@ -15,7 +15,7 @@ You can follow my journey or connect via
 - [Portfolio](https://pranavp-2006.web.app)
 
 ## 📝Writeups
-Access my comprehensive pentest write-ups [here](https://github.com/6cloudguy/box-writeups)
+Access my pentest write-ups [here](https://github.com/6cloudguy/box-writeups)
 
 ## 🎯Goals 
 |           |             |            |             |             |
@@ -39,6 +39,17 @@ Access my comprehensive pentest write-ups [here](https://github.com/6cloudguy/bo
 ## 📅 Weekly Progress Log
 
 ### Week 21(Nov 24 - Nov 30)
+- 🔍 Started the ICCA course in **INE**
+- 🌐 Posted about my responsive disclosure in **LinkedIn**
+- ✅ Finished **Sound the alarm: Detection and Response** in the coursera path
+- ✅ Finished **Connect and Protect: Networks and Network Security** in the coursera path
+- ✅ Finished **Play it safe: Manage security risks** in the coursera path
+- ✅ Finished **Put it to work: Prepare for Cybersecurity Jobs** in the coursera path
+- 💆🏻‍♂️ Completed the **Coursera Professional Certification** path
+- 📜 Got the **Google Cybersecurity Professional Certificate**
+- 🌐 Posted about the certificate on **LinkedIn**
+
+### Week 21(Nov 24 - Nov 30)
 - 🌐 Posted about my experience with grub on linkedin
 - 🤖 Working on **Ripple**
 - 🚄 Started the **Google Cybersecurity** Proffessional certificate course in Coursera
@@ -49,9 +60,9 @@ Access my comprehensive pentest write-ups [here](https://github.com/6cloudguy/bo
 - ✅ Finished **Accelerate Job search with AI** in the course
 - ✅ Finished **Introduction into Computers and OS** in the **Microsoft Cybersecurity Analyst** course 
 - 💆🏻‍♂️ Finally made the headless home server with my old laptop with no display and input
-- 🧠 Still deciding on what make with the home server
+- 🧠 Still deciding on what to make with the home server
 - 🦀 Posted about this repo in Linkedin
-- 💸 Bought the ine's ejpt course and started it
+- 💸 Bought the ine's fundamentals annuals and started
 
 ### Week 20(Nov 17 - Nov 23)
 - 🐣 Sem exams are over yayy.. So back to track
@@ -110,7 +121,7 @@ Access my comprehensive pentest write-ups [here](https://github.com/6cloudguy/bo
 - 🔥 Rooted the new season 9 box **Expressway** immediately on release
 - 🧗🏻‍♂️ Became **Bronze** in the new season 9
 - 👾 Became **Hacker** rank in HTB
-- 🎯 Planning to do *AWS* fortress in HTB
+- 🎯 Planning to do *JET* fortress in HTB
 
 ### Week 11(Sep 8 - Sep 14)
 - 👾 Found a Vulnerablity in a State Govt site
