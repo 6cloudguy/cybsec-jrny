@@ -24,7 +24,7 @@ Access my pentest write-ups [here](https://github.com/6cloudguy/box-writeups)
 | ⭕ Holo | ⭕ Platinum | ⭕ Ruby | ✅ Silver| ✅ Bronze |
 | ⭕ Omnicient | ⭕ Guru | ⭕ Elite hacker | ⭕ Pro Hacker| ✅ Hacker |
 | ⭕ 20 Challenges | ⭕ 10 Challenges | ⭕ 5 Real vuln | ✅ 1 Real vuln | ✅ Script Kiddie |
-| ⭕ CPTS | ⭕ eJPT v2 | ⭕ 10 Writeups | ✅ 5 Writeups | ✅ 1 Writeup |
+| ⭕ CPTS | ⭕ eJPT v2 | ✅ ICCA | ⭕ 10 Writeups | ✅ 5 Writeups |
 | ⭕ 50 CTFs| ⭕ 20 CTFs| ✅ 10 CTFs| ✅ 5 CTFs| ✅ 1 CTF|
 | ⭕ Complete Jet| ⭕ 8 Jet flags| ⭕ 4 Jet flags| ⭕ 2 Jet flags| ⭕ 1 Jet flag|
 <!-- | ⭕ Complete AWS| ⭕ 8 AWS flags| ⭕ 4 AWS flags| ⭕ 2 AWS flags| ⭕ 1 AWS flag| -->
@@ -37,6 +37,14 @@ Access my pentest write-ups [here](https://github.com/6cloudguy/box-writeups)
 - [`scripts/`](/scripts/README.md)    — Tools I build along the way
 
 ## 📅 Weekly Progress Log
+
+### Week 23(Dec 8 - Dec 14)
+- ❤️‍🔥 Passed **ICCA** yeahhh boiiii.... 🕺🏻🕺🏻
+- 🌐 Posted about ICCA on linkedin
+- 👾 Made my porfolio **single-paged** with react and vite
+- 🐣 Pwned the new **ReactOOPs** challenge in HTB
+- ✅ Almost completed **Ripple**
+
 
 ### Week 22(Dec 1 - Dec 7)
 - 🔍 Started the ICCA course in **INE**
@@ -149,7 +157,7 @@ Access my pentest write-ups [here](https://github.com/6cloudguy/box-writeups)
 - 💻 Made a writeup for the HTB box **Artificial** (Will publish when the box retire)
 - 😎 Owned **CubeMadness1** challlenge in HTB
 - 🔥 Owned **The Suspicious Domain** Challenge in HTB
-- 🛠️ Made a writeup for the HTB box **Editor** (Will publish when the box retire)
+- 🛠️ Made a writeup for the HTB box **Editor**
 - 🤒 **Couldnt do much because of health issues.**
 
 ### Week 7(Aug 11 - Aug 17)
