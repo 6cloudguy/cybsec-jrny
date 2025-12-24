@@ -38,6 +38,11 @@ Access my pentest write-ups [here](https://github.com/6cloudguy/box-writeups)
 
 ## 📅 Weekly Progress Log
 
+### Week 24(Dec 15 - Dec 21)
+- Completed and submitted **Ripple**
+- Started INE's eJPT learning path
+- Rooted the box **Conversor** on HTB
+
 ### Week 23(Dec 8 - Dec 14)
 - ❤️‍🔥 Passed **ICCA** yeahhh boiiii.... 🕺🏻🕺🏻
 - 🌐 Posted about ICCA on linkedin
