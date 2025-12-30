@@ -38,6 +38,10 @@ Access my pentest write-ups [here](https://github.com/6cloudguy/box-writeups)
 
 ## 📅 Weekly Progress Log
 
+### Week 25(Dec 22 - Dec 28)
+- Made my own NAS server with my old laptop
+- Couldnt do much due to fever
+
 ### Week 24(Dec 15 - Dec 21)
 - Completed and submitted **Ripple**
 - Started INE's eJPT learning path
