@@ -10,10 +10,6 @@ Started: **July 2025**
 
 I'm a second-year BSc CS student from Kerala,India. Preparing for a future in cybersecurity and bug bounty. This repo is my open learning-journal to stay consistent, build a portfolio, and reflect on growth.
 
- 
-
-
-
 ## 📝Writeups
 Access my pentest write-ups [here](https://github.com/6cloudguy/box-writeups)
 
@@ -37,15 +33,19 @@ Access my pentest write-ups [here](https://github.com/6cloudguy/box-writeups)
 - [`scripts/`](/scripts/README.md)    — Tools I build along the way
 
 ## 📅 Weekly Progress Log
+<!-- 
+### Week 26(Dec 29 - Jan 4)
+- ✅ Rooted the box **Previous** on HTB
+- 🔧 Remade the private repo for my portfolio and made updates -->
 
 ### Week 25(Dec 22 - Dec 28)
-- Made my own NAS server with my old laptop
-- Couldnt do much due to fever
+- 🔧 Made my own NAS server with my old laptop
+- 😷 Couldnt do much due to fever
 
 ### Week 24(Dec 15 - Dec 21)
-- Completed and submitted **Ripple**
-- Started INE's eJPT learning path
-- Rooted the box **Conversor** on HTB
+- ✅ Completed and submitted **Ripple**
+- ⌛ Started INE's eJPT learning path
+- ✅ Rooted the box **Conversor** on HTB
 
 ### Week 23(Dec 8 - Dec 14)
 - ❤️‍🔥 Passed **ICCA** yeahhh boiiii.... 🕺🏻🕺🏻
