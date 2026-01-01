@@ -36,6 +36,7 @@ Access my pentest write-ups [here](https://github.com/6cloudguy/box-writeups)
 <!-- 
 ### Week 26(Dec 29 - Jan 4)
 - ✅ Rooted the box **Previous** on HTB
+- 💆🏻‍♂️ Solved some issues
 - 🔧 Remade the private repo for my portfolio and made updates -->
 
 ### Week 25(Dec 22 - Dec 28)
