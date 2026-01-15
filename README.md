@@ -34,13 +34,18 @@ Access my pentest write-ups [here](https://github.com/6cloudguy/box-writeups)
 
 ## 📅 Weekly Progress Log
 
+### Week 27(Jan 5 - Jan 11)
+- ⌛ Focused on academics because i was not paying enough attention to it.
+- ✅ Completed the INE skill check lab **Assessment Methodologies: Information Gathering CTF 1**
+- ✅ Completed the INE module **Assessment Methodologies: Information Gathering**
+
 ### Week 26(Dec 29 - Jan 4)
 - ✅ Rooted the box **Previous** on HTB
 - 🌐 Making a new [blog](https://6cloudguy.github.io) to post my writeups and stuff
 - 🔧 Remade the private repo for my portfolio and made updates
 
 ### Week 25(Dec 22 - Dec 28)
-- 🔧 Made my own NAS server with my old laptop
+- 🔧 Made my own NAS server using **Nextcloud** on my old laptop
 - 😷 Couldnt do much due to fever
 
 ### Week 24(Dec 15 - Dec 21)
@@ -79,7 +84,7 @@ Access my pentest write-ups [here](https://github.com/6cloudguy/box-writeups)
 - ✅ Finished **Accelerate Job search with AI** in the course
 - ✅ Finished **Introduction into Computers and OS** in the **Microsoft Cybersecurity Analyst** course 
 - 💆🏻‍♂️ Finally made the headless home server with my old laptop with no display and input
-- 🧠 Still deciding on what to make with the home server
+- 🧠 Still deciding on what to do with the home server
 - 🦀 Posted about this repo in Linkedin
 - 💸 Bought the ine's fundamentals annuals and started
 
@@ -87,7 +92,7 @@ Access my pentest write-ups [here](https://github.com/6cloudguy/box-writeups)
 - 🐣 Sem exams are over yayy.. So back to track
 - 💆🏻‍♂️ Decided to get some free time as relaxation period.
 - 🤖 Started bulding a new HTB machine: ***Ripple***.
-- 🧱 Hit a wall on building the homelab due to unavailability of a lan to usb cable.
+- 🧱 Hit a wall on building my homelab due to unavailability of a lan to usb cable.
 
 ### Week 19(Nov 10 - Nov 16)
 - 🐣 Sem exams
