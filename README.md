@@ -34,6 +34,12 @@ Access my pentest write-ups [here](https://github.com/6cloudguy/box-writeups)
 
 ## 📅 Weekly Progress Log
 
+### Week 28(Jan 12 - Jan 18)
+- 🔥 Won first place on the **Debugging competition** held by **INSPIRO 26**, a national it fest.
+- ⌛ Applied for internship at **Future Interns**
+- ✅ Recieved 1 month internship offer letter
+- ✅ Completed the Task-1 on the internship
+
 ### Week 27(Jan 5 - Jan 11)
 - ⌛ Focused on academics because i was not paying enough attention to it.
 - ✅ Completed the INE skill check lab **Assessment Methodologies: Information Gathering CTF 1**
