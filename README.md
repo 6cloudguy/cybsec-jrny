@@ -20,7 +20,7 @@ Access my pentest write-ups [here](https://github.com/6cloudguy/box-writeups)
 | ⭕ Holo | ⭕ Platinum | ⭕ Ruby | ✅ Silver| ✅ Bronze |
 | ⭕ Omnicient | ⭕ Guru | ⭕ Elite hacker | ⭕ Pro Hacker| ✅ Hacker |
 | ⭕ 20 Challenges | ⭕ 10 Challenges | ⭕ 5 Real vuln | ✅ 1 Real vuln | ✅ Script Kiddie |
-| ⭕ CPTS | ⭕ eJPT v2 | ✅ ICCA | ⭕ 10 Writeups | ✅ 5 Writeups |
+| ⭕ CPTS | ⭕ eJPT | ✅ ICCA | ⭕ 10 Writeups | ✅ 5 Writeups |
 | ⭕ 50 CTFs| ⭕ 20 CTFs| ✅ 10 CTFs| ✅ 5 CTFs| ✅ 1 CTF|
 | ⭕ Complete Jet| ⭕ 8 Jet flags| ⭕ 4 Jet flags| ⭕ 2 Jet flags| ⭕ 1 Jet flag|
 <!-- | ⭕ Complete AWS| ⭕ 8 AWS flags| ⭕ 4 AWS flags| ⭕ 2 AWS flags| ⭕ 1 AWS flag| -->
@@ -34,11 +34,16 @@ Access my pentest write-ups [here](https://github.com/6cloudguy/box-writeups)
 
 ## 📅 Weekly Progress Log
 
+### Week 29(Jan 19 - Jan 25)
+- ✅ Completed the task 1 of my internship
+- ⌛ Started task 2 of my internship
+- ✅ Completed the task 2 of my internship
+
 ### Week 28(Jan 12 - Jan 18)
 - 🔥 Won first place on the **Debugging competition** held by **INSPIRO 26**, a national it fest.
 - ⌛ Applied for internship at **Future Interns**
-- ✅ Recieved 1 month internship offer letter
-- ✅ Completed the Task-1 on the internship
+- ✅ Recieved 1 month internship offer letter from **Future Interns**
+- ✅ Almost completed the Task-1 on the internship
 
 ### Week 27(Jan 5 - Jan 11)
 - ⌛ Focused on academics because i was not paying enough attention to it.
