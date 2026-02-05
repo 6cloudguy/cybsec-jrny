@@ -34,6 +34,10 @@ Access my pentest write-ups [here](https://github.com/6cloudguy/box-writeups)
 
 ## 📅 Weekly Progress Log
 
+### Week 30(Jan 26 - Feb 1)
+- 🐣 Rooted my old phone
+- 🌐 Posted on Linkedin about the **debugging competition**
+
 ### Week 29(Jan 19 - Jan 25)
 - ✅ Completed the task 1 of my internship
 - ⌛ Started task 2 of my internship
