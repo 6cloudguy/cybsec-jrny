@@ -34,7 +34,7 @@ Access my pentest write-ups [here](https://github.com/6cloudguy/box-writeups)
 
 ## 📅 Weekly Progress Log
 
-### Week 30(Feb 2 - Feb 8)
+### Week 31(Feb 2 - Feb 8)
 - 🐣 Went on an **Industrial Visit** to **UST Global**
 - ✅ Rooted the box **Facts** on HTB
 - ✅ Rooted the box **Pterodactyl** on HTB
