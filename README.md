@@ -34,6 +34,10 @@ Access my pentest write-ups [here](https://github.com/6cloudguy/box-writeups)
 
 ## 📅 Weekly Progress Log
 
+### Week 32(Feb 9 - Feb 15)
+- 🐣 Attended a session on ***Ethical Hacking and Bug Bounty***
+- 🌐 Made connections with nice ppl in the field
+
 ### Week 31(Feb 2 - Feb 8)
 - 🐣 Went on an **Industrial Visit** to **UST Global**
 - ✅ Rooted the box **Facts** on HTB
