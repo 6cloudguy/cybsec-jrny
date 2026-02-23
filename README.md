@@ -34,14 +34,25 @@ Access my pentest write-ups [here](https://github.com/6cloudguy/box-writeups)
 
 ## 📅 Weekly Progress Log
 
+### Week 33(Feb 16 - Feb 22)
+- 🐣 Took a session on **How to Start Ethical Hacking** in my college
+- 🌐 Posted about task 1 in linkedin
+- 🌐 Posted about task 2 in linkedin
+- ✅ Submitted the internship tasks 
+- ✅ Completed the internship
+- 🔥 Recieved internship completion cerificate
+- ✅ Rooted the box **WingData** on HTB
+- ⌛ Made writeup for the box **WingData**
+
 ### Week 32(Feb 9 - Feb 15)
 - 🐣 Attended a session on ***Ethical Hacking and Bug Bounty***
-- 🌐 Made connections with nice ppl in the field
+- 🌐 Made connections with some nice ppl in the field
 
 ### Week 31(Feb 2 - Feb 8)
 - 🐣 Went on an **Industrial Visit** to **UST Global**
 - ✅ Rooted the box **Facts** on HTB
 - ✅ Rooted the box **Pterodactyl** on HTB
+- 🌝 Became Silver rank in HTB Season 10
 
 ### Week 30(Jan 26 - Feb 1)
 - 🐣 Rooted my old phone
