@@ -34,6 +34,14 @@ Access my pentest write-ups [here](https://github.com/6cloudguy/box-writeups)
 
 ## 📅 Weekly Progress Log
 
+### Week 34(Feb 23 - Feb 28)
+- 🐣 Made my first **Resume**
+- ✅ Learned about **OS detection with TTL**(Time-To-Live) [64-Linux,128-Windows]
+- 🌐 Published the writeup of the HTB box **Soulmate** in medium
+- 🌐 Posted about the writeup on Linkedin
+- ✅ Updated my blog page on the writeup
+- ✅ Updated my portfolio on my certificates
+
 ### Week 33(Feb 16 - Feb 22)
 - 🐣 Took a session on **How to Start Ethical Hacking** in my college
 - 🌐 Posted about task 1 in linkedin
