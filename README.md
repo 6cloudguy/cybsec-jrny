@@ -34,7 +34,13 @@ Access my pentest write-ups [here](https://github.com/6cloudguy/box-writeups)
 
 ## 📅 Weekly Progress Log
 
-### Week 34(Feb 23 - Feb 28)
+### Week 35(Mar 2 - Mar 8)
+- 🐣 Made more connections
+- 🌐 Applied for Internships through linkedin
+- ✅ Passed my screening test for an internship
+- ✅ Got selected for an internship by **Deltaware Solutions**
+
+### Week 34(Feb 23 - Mar 1)
 - 🐣 Made my first **Resume**
 - ✅ Learned about **OS detection with TTL**(Time-To-Live) [64-Linux,128-Windows]
 - 🌐 Published the writeup of the HTB box **Soulmate** in medium
