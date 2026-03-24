@@ -34,6 +34,13 @@ Access my pentest write-ups [here](https://github.com/6cloudguy/box-writeups)
 
 ## 📅 Weekly Progress Log
 
+### Week 36(Mar 9 - Mar 15)
+- 🐣 Started my remote intenship at **Deltaware Solutions**
+- ✅ Completed some problems on **LeetCode**
+- ✅ Rooted the HTB Seasonal Box: **CCTV**
+- ✅ Submitted Week 1's task for my internship
+- 🐣 Resumed my learning on **Stack-Based Buffer Overfloww** on HTB Academy
+
 ### Week 35(Mar 2 - Mar 8)
 - 🐣 Made more connections
 - 🌐 Applied for Internships through linkedin
