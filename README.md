@@ -34,18 +34,19 @@ Access my pentest write-ups [here](https://github.com/6cloudguy/box-writeups)
 
 ## 📅 Weekly Progress Log
 
+### Week 37(Mar 16 - Mar 21)
+- ⌛ **Ripple** got rejected by HTB
+- ✅ Made enough changes to **Ripple**
+- ✅ Ressubmitted **Ripple**
+
 ### Week 36(Mar 9 - Mar 15)
-- 🐣 Started my remote intenship at **Deltaware Solutions**
 - ✅ Completed some problems on **LeetCode**
 - ✅ Rooted the HTB Seasonal Box: **CCTV**
-- ✅ Submitted Week 1's task for my internship
 - 🐣 Resumed my learning on **Stack-Based Buffer Overfloww** on HTB Academy
 
 ### Week 35(Mar 2 - Mar 8)
 - 🐣 Made more connections
 - 🌐 Applied for Internships through linkedin
-- ✅ Passed my screening test for an internship
-- ✅ Got selected for an internship by **Deltaware Solutions**
 
 ### Week 34(Feb 23 - Mar 1)
 - 🐣 Made my first **Resume**
