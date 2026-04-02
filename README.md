@@ -17,7 +17,7 @@ Access my pentest write-ups [here](https://github.com/6cloudguy/box-writeups)
 |           |             |            |             |             |
 |-----      |-----        |-----       |-----        |-----        |
 | ⭕ Own 100 machines | ⭕ Own 50 machines |  ⭕ Own 25 machines | ✅ Own 10 machines | ✅ Own 5 machines | 
-| ⭕ Holo | ⭕ Platinum | ⭕ Ruby | ✅ Silver| ✅ Bronze |
+| ⭕ Holo | ⭕ Platinum | ✅ Ruby | ✅ Silver| ✅ Bronze |
 | ⭕ Omnicient | ⭕ Guru | ⭕ Elite hacker | ⭕ Pro Hacker| ✅ Hacker |
 | ⭕ 20 Challenges | ⭕ 10 Challenges | ⭕ 5 Real vuln | ✅ 1 Real vuln | ✅ Script Kiddie |
 | ⭕ CPTS | ⭕ eJPT | ✅ ICCA | ⭕ 10 Writeups | ✅ 5 Writeups |
@@ -34,7 +34,14 @@ Access my pentest write-ups [here](https://github.com/6cloudguy/box-writeups)
 
 ## 📅 Weekly Progress Log
 
-### Week 37(Mar 16 - Mar 21)
+### Week 37(Mar 30 - Apr 5)
+- ✅ Rooted the HTB Seasonal Box: **CCTV**
+- 🔥 Reached **RUBY** rank in HTB Seasonal
+
+### Week 38(Mar 23 - Mar 29)
+- ⌛ Took a break as model exams started.
+
+### Week 37(Mar 16 - Mar 22)
 - ⌛ **Ripple** got rejected by HTB
 - ✅ Made enough changes to **Ripple**
 - ✅ Ressubmitted **Ripple**
