@@ -34,8 +34,8 @@ Access my pentest write-ups [here](https://github.com/6cloudguy/box-writeups)
 
 ## 📅 Weekly Progress Log
 
-### Week 37(Mar 30 - Apr 5)
-- ✅ Rooted the HTB Seasonal Box: **CCTV**
+### Week 39(Mar 30 - Apr 5)
+- ✅ Rooted the HTB Seasonal Box: **Kobold**
 - 🔥 Reached **RUBY** rank in HTB Seasonal
 
 ### Week 38(Mar 23 - Mar 29)
