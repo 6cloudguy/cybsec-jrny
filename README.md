@@ -34,6 +34,9 @@ Access my pentest write-ups [here](https://github.com/6cloudguy/box-writeups)
 
 ## 📅 Weekly Progress Log
 
+### Week 41-44(Apr 13 - May 20)
+- 🐣 Break due to sem exams
+
 ### Week 40(Apr 6 - Apr 12)
 - 🐣 Started solving the **JET** fortress in HTB
 - ✅ Completed some labs and courses in INE
