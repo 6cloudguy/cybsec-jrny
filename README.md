@@ -21,8 +21,8 @@ Access my pentest write-ups [here](https://github.com/6cloudguy/box-writeups)
 | ⭕ Omnicient | ⭕ Guru | ⭕ Elite hacker | ⭕ Pro Hacker| ✅ Hacker |
 | ⭕ 20 Challenges | ⭕ 10 Challenges | ⭕ 5 Real vuln | ✅ 1 Real vuln | ✅ Script Kiddie |
 | ⭕ CPTS | ⭕ eJPT | ✅ ICCA | ⭕ 10 Writeups | ✅ 5 Writeups |
-| ⭕ 50 CTFs| ⭕ 20 CTFs| ✅ 10 CTFs| ✅ 5 CTFs| ✅ 1 CTF|
-| ⭕ Complete Jet| ⭕ 8 Jet flags| ⭕ 4 Jet flags| ⭕ 2 Jet flags| ⭕ 1 Jet flag|
+| ⭕ 50 CTFtime puzzles| ⭕ 20 CTFtime puzzles| ✅ 10 CTFtime puzzles| ✅ 5 CTFtime puzzles| ✅ 1 CTFtime puzzle|
+| ✅ Complete Jet| ✅ 8 Jet flags| ✅ 4 Jet flags| ✅ 2 Jet flags| ✅ 1 Jet flag|
 <!-- | ⭕ Complete AWS| ⭕ 8 AWS flags| ⭕ 4 AWS flags| ⭕ 2 AWS flags| ⭕ 1 AWS flag| -->
 
 
@@ -33,6 +33,14 @@ Access my pentest write-ups [here](https://github.com/6cloudguy/box-writeups)
 - [`scripts/`](/scripts/README.md)    — Tools I build along the way
 
 ## 📅 Weekly Progress Log
+
+### Week 40(Apr 6 - Apr 12)
+- 🐣 Started solving the **JET** fortress in HTB
+- ✅ Completed some labs and courses in INE
+- ✅ Pwned the **Baby Time Capsule** challenge in HTB
+- ✅ Pwned the **Suspicious Threat** challenge in HTB
+- ✅ Pwned the **OpenSecret** challenge in HTB
+- ✅ Completed the **JET** fortress in HTB
 
 ### Week 39(Mar 30 - Apr 5)
 - ✅ Rooted the HTB Seasonal Box: **Kobold**
