@@ -34,7 +34,11 @@ Access my pentest write-ups [here](https://github.com/6cloudguy/box-writeups)
 
 ## 📅 Weekly Progress Log
 
-### Week 41-44(Apr 13 - May 20)
+### Week 47(May 25 - May 31)
+- 👾 Tried pentesting my Sony TV
+- ✅ Found a Vulnerability that allows **hijacking media control** and **DoS** in my TV
+
+### Week 41-46(Apr 13 - May 24)
 - 🐣 Break due to sem exams
 
 ### Week 40(Apr 6 - Apr 12)
