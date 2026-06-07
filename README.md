@@ -34,11 +34,18 @@ Access my pentest write-ups [here](https://github.com/6cloudguy/box-writeups)
 
 ## 📅 Weekly Progress Log
 
+### Week 48(June 1 - June 7)
+- 😭 Sony marked the report as **Duplicate**
+- ✅ Opened an issue on a github security advisory
+- ✅ Added my writeup on my htb team github
+- ✅ Started internship project **RADAR SYSTEM**
+
 ### Week 47(May 25 - May 31)
 - 👾 Tried pentesting my Sony TV
 - ✅ Found a Vulnerability that allows **hijacking media control** and **DoS** in my TV
 - ✅ Pwned **Reactor** from HTB
 - ✅ Pwned the **Uplink** challenge in HTB
+- 👾 Started **IoT** internship at **Kannur University**
 
 ### Week 41-46(Apr 13 - May 24)
 - 🐣 Break due to sem exams
