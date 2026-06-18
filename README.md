@@ -8,10 +8,10 @@ Started: **July 2025**
 
 ## 🧠 About Me
 
-I'm a second-year BSc CS student from Kerala,India. Preparing for a future in cybersecurity and bug bounty. This repo is my open learning-journal to stay consistent, build a portfolio, and reflect on growth.
+I'm a third-year BSc CS student from Kerala,India. Preparing for a future in cybersecurity and bug bounty. This repo is my open learning-journal to stay consistent, build a portfolio, and reflect on growth.
 
 ## 📝Writeups
-Access my pentest write-ups [here](https://github.com/6cloudguy/box-writeups)
+Access my pentest write-ups [here](https://6cloudguy.gihub.io)
 
 ## 🎯Goals 
 |           |             |            |             |             |
@@ -26,6 +26,15 @@ Access my pentest write-ups [here](https://github.com/6cloudguy/box-writeups)
 <!-- | ⭕ Complete AWS| ⭕ 8 AWS flags| ⭕ 4 AWS flags| ⭕ 2 AWS flags| ⭕ 1 AWS flag| -->
 
 
+### Real vuln counter: 4
+<!-- 
+- Profile pic vuln [no authentication,anyone can get details via fuzzing]
+- Outdated service vuln leading to DOS and RCE on college site 
+- IDOR in a scholarship portal resulting in candidate detail access(read and write) including bank details
+- Sony tv media hijack and DOS vuln  -->
+
+
+
 ## 📂 Repo Structure
 - [`htb/`](/htb/README.md)        — Writeups and notes of HTB
 - [`linkedin/`](/linkedin/README.md)   — Notes of Linkedin courses
@@ -33,6 +42,11 @@ Access my pentest write-ups [here](https://github.com/6cloudguy/box-writeups)
 - [`scripts/`](/scripts/README.md)    — Tools I build along the way
 
 ## 📅 Weekly Progress Log
+
+### Week 50(June 15 - June 21)
+- ⌛ Resumed INE classes for eJPT
+- 👾 **Chaogen** released
+- ✅ Made this repo up-to-date, added vuln counter, adn some other stuff
 
 ### Week 49(June 8 - June 14)
 - ✅ Completed internship project **RADAR SYSTEM**
@@ -78,7 +92,7 @@ Access my pentest write-ups [here](https://github.com/6cloudguy/box-writeups)
 ### Week 36(Mar 9 - Mar 15)
 - ✅ Completed some problems on **LeetCode**
 - ✅ Rooted the HTB Seasonal Box: **CCTV**
-- 🐣 Resumed my learning on **Stack-Based Buffer Overfloww** on HTB Academy
+- 🐣 Resumed my learning on **Stack-Based Buffer Overflow** on HTB Academy
 
 ### Week 35(Mar 2 - Mar 8)
 - 🐣 Made more connections
@@ -180,7 +194,7 @@ Access my pentest write-ups [here](https://github.com/6cloudguy/box-writeups)
 - 💆🏻‍♂️ Finally made the headless home server with my old laptop with no display and input
 - 🧠 Still deciding on what to do with the home server
 - 🦀 Posted about this repo in Linkedin
-- 💸 Bought the ine's fundamentals annuals and started
+- 💸 Bought the ine's fundamentals annuals and started learning for eJPT
 
 ### Week 20(Nov 17 - Nov 23)
 - 🐣 Sem exams are over yayy.. So back to track
