@@ -34,6 +34,11 @@ Access my pentest write-ups [here](https://github.com/6cloudguy/box-writeups)
 
 ## 📅 Weekly Progress Log
 
+### Week 48(June 8 - June 14)
+- ✅ Completed internship project **RADAR SYSTEM**
+- ✅ Completed **IoT** Internship
+- 👾 **Chaogen** release was scheduled
+
 ### Week 48(June 1 - June 7)
 - 😭 Sony marked the report as **Duplicate**
 - ✅ Opened an issue on a github security advisory
