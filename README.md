@@ -34,7 +34,7 @@ Access my pentest write-ups [here](https://github.com/6cloudguy/box-writeups)
 
 ## 📅 Weekly Progress Log
 
-### Week 48(June 8 - June 14)
+### Week 49(June 8 - June 14)
 - ✅ Completed internship project **RADAR SYSTEM**
 - ✅ Completed **IoT** Internship
 - 👾 **Chaogen** release was scheduled
