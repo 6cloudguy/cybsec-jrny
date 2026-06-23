@@ -46,7 +46,7 @@ Access my pentest write-ups [here](https://6cloudguy.gihub.io)
 ### Week 50(June 15 - June 21)
 - ⌛ Resumed INE classes for eJPT
 - 👾 **Chaogen** released
-- ✅ Made this repo up-to-date, added vuln counter, adn some other stuff
+- ✅ Made this repo up-to-date, added vuln counter, and some other stuff
 
 ### Week 49(June 8 - June 14)
 - ✅ Completed internship project **RADAR SYSTEM**
