@@ -49,7 +49,7 @@ Access my pentest write-ups [here](https://6cloudguy.gihub.io)
 - 🐣 Updated my portfolio site
 
 ### Week 53(June 29 - July 5)
-- 👾 Created github public template for of my new portfolio
+- 👾 Created github public template of my new portfolio
 - ✅ Completed my new portfolio
 - ✅ Released 2 package versions of my tv streaming scripts
 - ✅ Published Writeup of my TV pentesting on medium
