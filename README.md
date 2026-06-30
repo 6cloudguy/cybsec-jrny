@@ -43,33 +43,38 @@ Access my pentest write-ups [here](https://6cloudguy.gihub.io)
 
 ## 📅 Weekly Progress Log
 
-### Week 50(June 15 - June 21)
+### Week 52(June 22 - June 28)
+- 👾 Created github repo for uploading my tv-exploit code
+- ✅ Uploaded TV Streaming code to Github
+- ✅ Started creating a new portfolio page
+
+### Week 51(June 15 - June 21)
 - ⌛ Resumed INE classes for eJPT
 - 👾 **Chaogen** released
 - ✅ Made this repo up-to-date, added vuln counter, and some other stuff
 
-### Week 49(June 8 - June 14)
+### Week 50(June 8 - June 14)
 - ✅ Completed internship project **RADAR SYSTEM**
 - ✅ Completed **IoT** Internship
 - 👾 **Chaogen** release was scheduled
 
-### Week 48(June 1 - June 7)
+### Week 49(June 1 - June 7)
 - 😭 Sony marked the report as **Duplicate**
 - ✅ Opened an issue on a github security advisory
 - ✅ Added my writeup on my htb team github
 - ✅ Started internship project **RADAR SYSTEM**
 
-### Week 47(May 25 - May 31)
+### Week 48(May 25 - May 31)
 - 👾 Tried pentesting my Sony TV
 - ✅ Found a Vulnerability that allows **hijacking media control** and **DoS** in my TV
 - ✅ Pwned **Reactor** from HTB
 - ✅ Pwned the **Uplink** challenge in HTB
 - 👾 Started **IoT** internship at **Kannur University**
 
-### Week 41-46(Apr 13 - May 24)
+### Week 42-47(Apr 13 - May 24)
 - 🐣 Break due to sem exams
 
-### Week 40(Apr 6 - Apr 12)
+### Week 41(Apr 6 - Apr 12)
 - 🐣 Started solving the **JET** fortress in HTB
 - ✅ Completed some labs and courses in INE
 - ✅ Pwned the **Baby Time Capsule** challenge in HTB
@@ -77,28 +82,28 @@ Access my pentest write-ups [here](https://6cloudguy.gihub.io)
 - ✅ Pwned the **OpenSecret** challenge in HTB
 - ✅ Completed the **JET** fortress in HTB
 
-### Week 39(Mar 30 - Apr 5)
+### Week 40(Mar 30 - Apr 5)
 - ✅ Rooted the HTB Seasonal Box: **Kobold**
 - 🔥 Reached **RUBY** rank in HTB Seasonal
 
-### Week 38(Mar 23 - Mar 29)
+### Week 39(Mar 23 - Mar 29)
 - ⌛ Took a break as model exams started.
 
-### Week 37(Mar 16 - Mar 22)
+### Week 38(Mar 16 - Mar 22)
 - ⌛ **Ripple** got rejected by HTB
 - ✅ Made enough changes to **Ripple**
 - ✅ Ressubmitted **Ripple**
 
-### Week 36(Mar 9 - Mar 15)
+### Week 37(Mar 9 - Mar 15)
 - ✅ Completed some problems on **LeetCode**
 - ✅ Rooted the HTB Seasonal Box: **CCTV**
 - 🐣 Resumed my learning on **Stack-Based Buffer Overflow** on HTB Academy
 
-### Week 35(Mar 2 - Mar 8)
+### Week 36(Mar 2 - Mar 8)
 - 🐣 Made more connections
 - 🌐 Applied for Internships through linkedin
 
-### Week 34(Feb 23 - Mar 1)
+### Week 35(Feb 23 - Mar 1)
 - 🐣 Made my first **Resume**
 - ✅ Learned about **OS detection with TTL**(Time-To-Live) [64-Linux,128-Windows]
 - 🌐 Published the writeup of the HTB box **Soulmate** in medium
@@ -106,7 +111,7 @@ Access my pentest write-ups [here](https://6cloudguy.gihub.io)
 - ✅ Updated my blog page on the writeup
 - ✅ Updated my portfolio on my certificates
 
-### Week 33(Feb 16 - Feb 22)
+### Week 34(Feb 16 - Feb 22)
 - 🐣 Took a session on **How to Start Ethical Hacking** in my college
 - 🌐 Posted about task 1 in linkedin
 - 🌐 Posted about task 2 in linkedin
@@ -116,52 +121,52 @@ Access my pentest write-ups [here](https://6cloudguy.gihub.io)
 - ✅ Rooted the box **WingData** on HTB
 - ⌛ Made writeup for the box **WingData**
 
-### Week 32(Feb 9 - Feb 15)
+### Week 33(Feb 9 - Feb 15)
 - 🐣 Attended a session on ***Ethical Hacking and Bug Bounty***
 - 🌐 Made connections with some nice ppl in the field
 
-### Week 31(Feb 2 - Feb 8)
+### Week 32(Feb 2 - Feb 8)
 - 🐣 Went on an **Industrial Visit** to **UST Global**
 - ✅ Rooted the box **Facts** on HTB
 - ✅ Rooted the box **Pterodactyl** on HTB
 - 🌝 Became Silver rank in HTB Season 10
 
-### Week 30(Jan 26 - Feb 1)
+### Week 31(Jan 26 - Feb 1)
 - 🐣 Rooted my old phone
 - ✅ Rooted the box **HackNet** on HTB
 - 🌐 Posted on Linkedin about the **debugging competition**
 
-### Week 29(Jan 19 - Jan 25)
+### Week 30(Jan 19 - Jan 25)
 - ✅ Completed the task 1 of my internship
 - ⌛ Started task 2 of my internship
 - ✅ Completed the task 2 of my internship
 
-### Week 28(Jan 12 - Jan 18)
+### Week 29(Jan 12 - Jan 18)
 - 🔥 Won first place on the **Debugging competition** held by **INSPIRO 26**, a national it fest.
 - ⌛ Applied for internship at **Future Interns**
 - ✅ Recieved 1 month internship offer letter from **Future Interns**
 - ✅ Almost completed the Task-1 on the internship
 
-### Week 27(Jan 5 - Jan 11)
+### Week 28(Jan 5 - Jan 11)
 - ⌛ Focused on academics because i was not paying enough attention to it.
 - ✅ Completed the INE skill check lab **Assessment Methodologies: Information Gathering CTF 1**
 - ✅ Completed the INE module **Assessment Methodologies: Information Gathering**
 
-### Week 26(Dec 29 - Jan 4)
+### Week 27(Dec 29 - Jan 4)
 - ✅ Rooted the box **Previous** on HTB
 - 🌐 Making a new [blog](https://6cloudguy.github.io) to post my writeups and stuff
 - 🔧 Remade the private repo for my portfolio and made updates
 
-### Week 25(Dec 22 - Dec 28)
+### Week 26(Dec 22 - Dec 28)
 - 🔧 Made my own NAS server using **Nextcloud** on my old laptop
 - 😷 Couldnt do much due to fever
 
-### Week 24(Dec 15 - Dec 21)
+### Week 25(Dec 15 - Dec 21)
 - ✅ Completed and submitted **Ripple**
 - ⌛ Started INE's eJPT learning path
 - ✅ Rooted the box **Conversor** on HTB
 
-### Week 23(Dec 8 - Dec 14)
+### Week 24(Dec 8 - Dec 14)
 - ❤️‍🔥 Passed **ICCA** yeahhh boiiii.... 🕺🏻🕺🏻
 - 🌐 Posted about ICCA on linkedin
 - 👾 Made my porfolio **single-paged** with react and vite
@@ -169,7 +174,7 @@ Access my pentest write-ups [here](https://6cloudguy.gihub.io)
 - ✅ Almost completed **Ripple**
 
 
-### Week 22(Dec 1 - Dec 7)
+### Week 23(Dec 1 - Dec 7)
 - 🔍 Started the ICCA course in **INE**
 - 🌐 Posted about my responsive disclosure in **LinkedIn**
 - ✅ Finished **Sound the alarm: Detection and Response** in the coursera path
@@ -181,7 +186,7 @@ Access my pentest write-ups [here](https://6cloudguy.gihub.io)
 - 👾 Rooted the **HTB Box** MonitorsFour
 - 🌐 Posted about the certificate on **LinkedIn**
 
-### Week 21(Nov 24 - Nov 30)
+### Week 22(Nov 24 - Nov 30)
 - 🌐 Posted about my experience with grub on linkedin
 - 🤖 Working on **Ripple**
 - 🚄 Started the **Google Cybersecurity** Proffessional certificate course in Coursera
@@ -196,13 +201,13 @@ Access my pentest write-ups [here](https://6cloudguy.gihub.io)
 - 🦀 Posted about this repo in Linkedin
 - 💸 Bought the ine's fundamentals annuals and started learning for eJPT
 
-### Week 20(Nov 17 - Nov 23)
+### Week 21(Nov 17 - Nov 23)
 - 🐣 Sem exams are over yayy.. So back to track
 - 💆🏻‍♂️ Decided to get some free time as relaxation period.
 - 🤖 Started bulding a new HTB machine: ***Ripple***.
 - 🧱 Hit a wall on building my homelab due to unavailability of a lan to usb cable.
 
-### Week 19(Nov 10 - Nov 16)
+### Week 20(Nov 10 - Nov 16)
 - 🐣 Sem exams
 - 💽 Broke my old PC's bootloader
 - 😅 Fixed the PC
@@ -339,7 +344,7 @@ Access my pentest write-ups [here](https://6cloudguy.gihub.io)
 - ✅ HTB: Completed the path **"Cracking into HackTheBox"**
 - 💡 Learned basics of pentesting and metasploit
 
-### Week 1 (Jul 1 – Jul 6)
+### Week 1 (Jun 30 – Jul 6)
 - ✅ Started the linkedin learning path: **Penetration Testing Intern** from KDISC
 - ✅ Completed LinkedIn Course: **Leveraging AI for Pentesting** by Tennisha Martin
 - 💡 Learned how LLMs (like ChatGPT) can assist with recon, payloads, and automation
