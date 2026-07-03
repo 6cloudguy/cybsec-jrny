@@ -43,6 +43,14 @@ Access my pentest write-ups [here](https://6cloudguy.gihub.io)
 
 ## 📅 Weekly Progress Log
 
+### Week 53(June 29 - July 5)
+- 👾 Created github public template for of my new portfolio
+- ✅ Completed my new portfolio
+- ✅ Released 2 package versions of my tv streaming scripts
+- ✅ Published Writeup of my TV pentesting on medium
+- ✅ Released writeup of **INTERPRETER** on my blog site
+- ✅ Opened pull-req on catpuchin-refind theme
+
 ### Week 52(June 22 - June 28)
 - 👾 Created github repo for uploading my tv-exploit code
 - ✅ Uploaded TV Streaming code to Github
