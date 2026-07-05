@@ -43,6 +43,9 @@ Access my pentest write-ups [here](https://6cloudguy.gihub.io)
 
 ## 📅 Weekly Progress Log
 
+### Week 54(July 6 - July 12)
+- ✅ Solved **Obscure**, a forensics challenge from HTB
+
 ### Week 53(June 29 - July 5)
 - 👾 Created github public template for of my new portfolio
 - ✅ Completed my new portfolio
