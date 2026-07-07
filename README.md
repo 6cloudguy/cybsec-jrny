@@ -16,7 +16,7 @@ Access my pentest write-ups [here](https://6cloudguy.gihub.io)
 ## 🎯Goals 
 |           |             |            |             |             |
 |-----      |-----        |-----       |-----        |-----        |
-| ⭕ Own 100 machines | ⭕ Own 50 machines |  ⭕ Own 25 machines | ✅ Own 10 machines | ✅ Own 5 machines | 
+| ⭕ Own 100 machines | ⭕ Own 50 machines | ✅  Own 25 machines | ✅ Own 10 machines | ✅ Own 5 machines | 
 | ⭕ Holo | ⭕ Platinum | ✅ Ruby | ✅ Silver| ✅ Bronze |
 | ⭕ Omnicient | ⭕ Guru | ⭕ Elite hacker | ⭕ Pro Hacker| ✅ Hacker |
 | ⭕ 20 Challenges | ⭕ 10 Challenges | ⭕ 5 Real vuln | ✅ 1 Real vuln | ✅ Script Kiddie |
@@ -45,6 +45,7 @@ Access my pentest write-ups [here](https://6cloudguy.gihub.io)
 
 ### Week 54(July 6 - July 12)
 - ✅ Solved **Obscure**, a forensics challenge from HTB
+- 👾 New challenge idea
 
 ### Week 53(June 29 - July 5)
 - 👾 Created github public template for of my new portfolio
