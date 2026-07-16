@@ -45,8 +45,11 @@ Access my pentest write-ups [here](https://6cloudguy.gihub.io)
 
 ### Week 54(July 6 - July 12)
 - ✅ Solved **Obscure**, a forensics challenge from HTB
-- 👾 New challenge idea
+- 👾 New challenge idea - FORGOTTEN
 - 🐣 Updated my portfolio site
+- ✅ Created new ATS friendly Resume
+- ✅ Applied for Customer Support Technician role at HTB
+- 👾 New HUGE Project idea - ERM app
 
 ### Week 53(June 29 - July 5)
 - 👾 Created github public template of my new portfolio
